@@ -20,3 +20,4 @@ It contains the e-commerce webpage
 ![Screenshot (627)](https://user-images.githubusercontent.com/109333215/179224783-c950a436-079d-4acb-9a48-8e95d0fcbb39.png)
 ![Screenshot (628)](https://user-images.githubusercontent.com/109333215/179224786-ad08a20a-2fa7-48e8-9dbb-56da44fa1b88.png)
 
+Project Status: E-commerce webpage is a work in Progress
